@@ -1,4 +1,9 @@
 html {
+    background-image: url('../images/cute_death.png');
+    background-size: 15%;
+    background-position-x: 95%;
+    background-position-y: 90%;
+    background-repeat: no-repeat;
     background-color: rgb(44, 44, 44);
     display: flex;
     align-items: center;
